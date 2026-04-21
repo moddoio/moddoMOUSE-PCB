@@ -1,0 +1,28 @@
+﻿Designator,Name,Description,Manufacturer Part Number,Manufacturer,Footprint,Quantity,Fitted,Country of Origin,RoHS Status
+"C20, C21, C23, C24, C26, C60, C63, C80, C81",10uF,25V 10uF X5R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS,GRM188R61E106KA73D,Murata,C0603,9,Fitted,Japan,Yes
+"C22, C25, C62, C70, C71, C82, C83, C84",0.1uF,25V 100nF X7R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS,CL05B104KA5NNNC,Samsung Electro-Mechanics,C0402,8,Fitted,Philippines,Yes
+"C61, C64",12pF,Surface Mount Ceramic Multilayer Capacitor Automotive Grade 12pF 1% C0G 50V 0402 Paper T/R,AC0402FRNPO9BN120,Yageo,C0402,0,Not Fitted,Japan,Yes
+J20,SM03B-SRSS-TB,"Connector Header, Side Entry, SR Series, 3 Position, 1.00mm, 50V, Surface Mount, Tin, Natural",SM03B-SRSS-TB(LF)(SN),JST,SSM03B-SRSS-TB,1,Fitted,China,Yes
+"J30, J31",HX PM1.27-1x8P ZC H3.4,1.27mm 1A 1 Gold -40℃~+105℃ 8P Phosphor Bronze Through Hole 1x8P Top 3.4mm Square Holes,HX PM1.27-1x8P ZC H3.4,Hanxia,HEADER_FEMALE_1_27mm_8p_HEIGHT_3_4mm,2,Fitted,China,Yes
+"J40, J41",IPCP127F06PB08R,"1.27mm 1A Gold 1 6P Phosphor Bronze -40℃~+105℃ Right Angle 1x6P 2.1mm Square Hole Through Hole, Right Angle, P=1.27mm Female Headers ROHS",INCP,IPCP127F06PB08R,IPCP127F06PB08R,2,Fitted,China,Yes
+J50,12402012E212A,"USB Connector, USB Type C, USB 2.0, Receptacle, 24 Ways, Surface Mount, Through Hole Mount",12402012E212A,Amphenol,12402012E212A,1,Fitted,China,Yes
+J51,2328702-8,"FFC/FPC Connector, 8 Contact(s), 1 Row(s), Right Angle, Solder Terminal, Natural Insulator",2328702-8,TE Connectivity,2328702-8,0,Not Fitted,China,Yes
+L20,2.2uH,"General Purpose Inductor, 2.2uH, 20%, 1 Element, Metal Composite-Core, SMD",CIGW252010GL2R2MNE,Samsung Electro-Mechanics,L1008,1,Fitted,China,Yes
+LED60,B38G3RGB-10D0003H2U1930,Led Rgb Mixed White ( 1.6(L)X1.6,B38G3RGB-10D0003H2U1930,Inolux,B38G3RGB-10D0003H2U1930,1,Fitted,Taiwan,Yes
+Q20,"NX3008CBKS,115","N/P-Channel Trench MOSFET, 30 / -30 V, 350 / -200 mA, -55 to 150 degC, 6-Pin SOT363, Tape and Reel","NX3008CBKS,115",NXP Semiconductors,"NX3008CBKS,115",1,Fitted,Malaysia,ROHS3
+"Q60, Q61","SSM6N35AFE,LF",Small Low ON Resistance MOSFET Array Dual N-Channel 20V 250mA 6-Pin SOT-563 T/R,"SSM6N35AFE,LF",Toshiba,"SSM6N35AFE,LF",2,Fitted,Thailand,ROHS3
+"R20, R21",2.55kR,Res Thick Film 0402 2.55K Ohm 1% 0.063W(1/16W) ±100ppm/C Pad SMD T/R,RC0402FR-072K55L,Yageo Group,R0402,2,Fitted,China,ROHS3
+"R22, R23",115kR,62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 115kΩ 0402 Chip Resistor - Surface Mount ROHS,RC0402FR-07115KL,Yageo Group,R0402,2,Fitted,Japan,Yes
+"R24, R25, R26, R27, R50, R51, R60, R61, R62, R63",5.1kR,62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 5.1kΩ 0402 Chip Resistor - Surface Mount ROHS,RC0402FR-075K1L,Yageo Group,R0402,10,Fitted,Taiwan,Yes
+R64,33R,Res Thick Film Array 33 Ohm 5% 200ppm/ C ISOL Molded 8-Pin 1206(4 X 0603) Convex SMD Paper T/R,YC164-JR-0733RL,Yageo,YC164-JR-0733RL,1,Fitted,Taiwan,Yes
+R80,5.6R,Res Thick Film 0603 5.6 Ohm 1% 0.33W(1/3W) ±100ppm/C Pad SMD T/R Automotive AEC-Q200,CRCW06035R60FKEAHP,Vishay,R0603,1,Fitted,Israel,Yes
+SW60,450405020524,450405020524 WS-SLSU Mini Slide Switch,450405020524,Würth Elektronik,4.50405E+11,1,Fitted,China,ROHS3
+SW61,B3U-1100P,SWITCH TACTILE SPST-NO 0.05A 12V,B3U-1100P,Omron Electronics Inc-EMC Div,FP-B3U-1100P-MFG,1,Fitted,Japan,ROHS3
+U20,nPM1100-QDAA,NPM1100 Series 400 mA Linear Battery Charger Power Management IC - QFN-24,NPM1100-QDAA,Nordic Semiconductor,nPM1100-QDAA,1,Fitted,Taiwan,ROHS3
+U21,AP22652AW6-7,"Pwr Load Sw, Active Low, -40 To 85Deg C Rohs Compliant: Yes |Diodes Inc. AP22652AW6-7",AP22652AW6-7,Diodes,AP22652AW6-7,1,Fitted,China,Yes
+U50,ESDR0502NMUTBG,"Ultra Low Capacitance ESD Protection Array for High Speed Data Line Protection, 6-Pin UDFN, Pb-Free, Tape and Reel",ESDR0502NMUTBG,On Semiconductor,ESDR0502NMUTBG,1,Fitted,Malaysia,ROHS3
+U60,MDBT50Q-1MV2,"802.15.4, General ISM < 1GHz Bluetooth v5.0 Transceiver Module 2.36GHz ~ 2.5GHz Integrated, Chip Surface Mount",MDBT50Q-1MV2,Raytac,MDBT50Q-1MV2,1,Fitted,Taiwan,RoHS3
+U70,BMI323,BMI323 Series 1.8 V 16-bit Resolution Inertial Measurement Unit - LGA-14,BMI323,Bosch Sensortec,BMI323,0,Not Fitted,Germany,ROHS3
+U80,PAW3395,"High-end low-power optical gaming mouse chip designed with enhanced features of high speed, high resolution and high accuracy",PAW3395,PixArt,PAW3395,1,Fitted,Taiwan,Yes
+U81,TLV70019DDCR,"200-mA, high-PSRR, low-IQ, low-dropout voltage regulator with enable 5-SOT-23-THIN -40 to 125",TLV70019DDCR,Texas Instruments,TLV70019DDCR,1,Fitted,Thailand,ROHS3
+X60,"Q 0,032768-JTX310-9-20-T1-70K-LF","32.768 kHz ±20ppm Crystal 9pF 70 kOhms 2-SMD, No Lead","Q 0,032768-JTX310-9-20-T1-70K-LF",Jauch,"Q 0,032768-JTX310-9-20-T1-70K-LF",0,Not Fitted,Germany,ROHS3

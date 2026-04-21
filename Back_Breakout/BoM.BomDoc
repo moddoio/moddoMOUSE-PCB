@@ -1,0 +1,20 @@
+|RECORD=BOM|VERSION=6|FILENAME=C:\Users\JustinKim\Desktop\src_moddo\moddoMOUSE-PCB\Back_Breakout\BoM.$$$|KIND=ALTIUM_DESIGNER_LIVEBOM|DATE=21.04.2026|TIME=18:13:11|CURRENCY=USD|PRODUCTIONQUANTITY=1|PERUNITTARGETPRICE=0|PERUNITACTUALPRICE=0
+|RECORD=GeneralOptions|OPENEXPORTED=False|ADDTOPROJECT=False|FORCEFIT=False|NOTFITTED=True|TEMPLATEFILENAME=|BATCHMODE=0|SUPPLIERPRODQTY=0|SUPPLIERAUTOQTY=False|SUPPLIERUSECACHEDPRICING=False|SUPPLIERCURRENCY=|SOLUTIONSPERITEM=1|SUPPLIERSPERSOLUTION=1|DISPLAYTOTALROW=False|DISPLAYSUBTOTALSFORGROUPS=False|INCLUDEPCBPARAMETERS=False|INCLUDEDBPARAMETERS=False|INCLUDEVAULTPARAMETERS=False|INCLUDECLOUDPARAMETERS=False|INCLUDEDOCUMENTPARAMETERS=False|FILTEROUTRISKYSOLUTIONS=True|DESIGNATORGROUPING=No
+|RECORD=SortOrderOptions|SORTORDER=
+|RECORD=GroupOrderOptions|GROUPORDER=
+|RECORD=VisibleOrderOptions|VISIBLEORDER=Designator=148!Description=236!Comment=110!Manufacturer Part Number=155!Manufacturer=131!Footprint=120!Quantity=65!Fitted=109!Country of Origin=96!RoHS Status=83!Supplier Link=160
+|RECORD=VisibleOrderOptions2|BASEVIEW=Designator=148!Description=236!Comment=110!Manufacturer Part Number=155!Manufacturer=131!Footprint=120!Quantity=65!Fitted=109!Country of Origin=96!RoHS Status=83!Supplier Link=160|FLATVIEW=Line #=-1!Comment=-1!Description=-1!Designator=-1!Fitted=109!TargetPrice=-1!Manufacturer 1=102!Manufacturer Part Number 1=169!Manufacturer Lifecycle 1=147!Supplier 1=75!Supplier Part Number 1=142!Supplier Unit Price 1=127!Supplier Subtotal 1=122|CONSOLIDATEDVIEW=Line #=-1!Comment=-1!Description=-1!Designator=-1!Quantity=-1!Fitted=109!TargetPrice=-1!Manufacturer 1=102!Manufacturer Part Number 1=169!Manufacturer Lifecycle 1=147!Supplier 1=75!Supplier Part Number 1=142!Supplier Unit Price 1=127!Supplier Subtotal 1=122
+|RECORD=CustomColumns|CUSTOMCOLUMNS=Fitted=109!Country of Origin=96!RoHS Status=83!Supplier Link=160!Found/Block=84!TP Used=63
+|RECORD=ColumnsAliases|COLUMNSALIASES=Comment=Name
+|RECORD=FilterOptions|FILTER=
+|RECORD=CheckGroupCompParamsOptions|CHECKGROUPCOMPPARAMS=Comment=0,Description=0,Value=0,Footprint=1
+|RECORD=ManufacturerLinkOptions|MANUFACTURERLINKPARAMETERS=
+|RECORD=FavoriteSuppliers|PARTSOURCES=|SUPPLIERS=|USESUPPLIERORDER=False
+|RECORD=CheckOptions|CHECKLEVELS=
+|RECORD=ExternalCheckOptions|CHECKLEVELS=
+|RECORD=LineNumberingOptions|STARTVALUE=|INCREMENT=
+|RECORD=Catalog|DBLINKFILEPATH=
+|RECORD=CatalogItem|ITEMTYPE=Automatic-NonVault|UNIQUEID=Connectors.SchLib\1.27mm_6pins_male_rightangle|DESIGNITEMID=1.27mm_6pins_male_rightangle|ITEMSOURCE=Connectors.SchLib|STATUS=Unknown|DESCRIPTION=|USERCOMMENTS=1.27mm_6pins|NOTE=|LINENUMBER=|SELECTEDPARAMETERSHASH=,1.27mm_6pins|COMPONENTPARAMETERS=Comment=1.27mm_6pins,"Component Kind=Standard",Description=,Footprint=1.27mm_6pins_MaleHeader_RightAngle,"Ibis Model=","Library Name=Connectors.SchLib","Library Reference=1.27mm_6pins_male_rightangle",PCB3D=,"Pin Info=","Signal Integrity=",Simulation=|CUSTOMPARAMETERS=Country of Origin=China¦RoHS Status=Yes
+|RECORD=PartChoiceGroups|GROUPBYFIELDCOUNT=0
+|RECORD=CatalogItem|ITEMTYPE=Automatic-NonVault|UNIQUEID=Miscellaneous Connectors.IntLib\Header 6X2|DESIGNITEMID=Header 6X2|ITEMSOURCE=Miscellaneous Connectors.IntLib|STATUS=Unknown|DESCRIPTION=Header, 6-Pin, Dual row|USERCOMMENTS=Header 6X2|NOTE=|LINENUMBER=|SELECTEDPARAMETERSHASH="Header 6X2","Header, 6-Pin, Dual row"|COMPONENTPARAMETERS="Comment=Header 6X2","Component Kind=Standard","Description=Header, 6-Pin, Dual row",Footprint=HEADER_2_54_F_2X6,"Ibis Model=",LatestRevisionDate=17-Jul-2002,"LatestRevisionNote=Re-released for DXP Platform.","Library Name=Miscellaneous Connectors.IntLib","Library Reference=Header 6X2","Manufacturer=Adam Tech","Manufacturer Part Number=RS2-12-G",PCB3D=,"Pin Info=","Publisher=Altium Limited","Signal Integrity=Connector",Simulation=|CUSTOMPARAMETERS=Country of Origin=China¦RoHS Status=ROHS3¦Supplier Link=https://www.digikey.ca/en/products/detail/adam-tech/RS2-12-G/9832053
+|RECORD=PartChoiceGroups|GROUPBYFIELDCOUNT=0
