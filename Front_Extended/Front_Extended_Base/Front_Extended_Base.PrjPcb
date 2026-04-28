@@ -44,6 +44,7 @@ CrossRefPorts=3
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
 CrossRefFollowFromMainSettings=1
+CurrentVariant=Main
 
 [Preferences]
 PrefsVaultGUID=
@@ -302,7 +303,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=LFZCXRAI
 
 [Document16]
 DocumentPath=..\..\..\Altium-Library\Symbols\Connectors.SchLib
@@ -319,7 +320,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=TNUSWCUM
 
 [Document17]
 DocumentPath=..\..\..\Altium-Library\Symbols\Diodes.SchLib
@@ -336,7 +337,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=COOMOXUX
 
 [Document18]
 DocumentPath=..\..\..\Altium-Library\Symbols\Inductors.SchLib
@@ -353,7 +354,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=AYXLPKQL
 
 [Document19]
 DocumentPath=..\..\..\Altium-Library\Symbols\IntegratedCircuits.SchLib
@@ -370,7 +371,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=TEOWDNJM
 
 [Document20]
 DocumentPath=..\..\..\Altium-Library\Symbols\Modules.SchLib
@@ -387,7 +388,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=OJKRALTS
 
 [Document21]
 DocumentPath=..\..\..\Altium-Library\Symbols\Oscillators.SchLib
@@ -404,7 +405,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=BTQUEOYX
 
 [Document22]
 DocumentPath=..\..\..\Altium-Library\Symbols\Others.SchLib
@@ -421,7 +422,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=MWIOXLKW
 
 [Document23]
 DocumentPath=..\..\..\Altium-Library\Symbols\Resistors.SchLib
@@ -438,7 +439,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=YDRUDFNA
 
 [Document24]
 DocumentPath=..\..\..\Altium-Library\Symbols\TestPoint.SchLib
@@ -455,7 +456,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=DOYFHFRR
 
 [Document25]
 DocumentPath=..\..\..\Altium-Library\Symbols\Transistors.SchLib
@@ -472,7 +473,35 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
+DocumentUniqueId=LIOLRTEE
+
+[Document26]
+DocumentPath=BoM.BomDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
 DocumentUniqueId=
+
+[ProjectVariant1]
+UniqueId=b16e3651-2c09-45fc-92cc-e06b5a06bb74
+Description=Main
+AllowFabrication=0
+ParameterCount=0
+VariationCount=3
+Variation1=Designator=P2|UniqueId=\ULYIPMUJ|Kind=1|AlternatePart=
+Variation2=Designator=P3|UniqueId=\CNKVVDSH|Kind=1|AlternatePart=
+Variation3=Designator=P1|UniqueId=\FVYICQXW|Kind=1|AlternatePart=
+ParamVariationCount=0
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for Front_Extended_Base\Design Rule Check - PCB.html

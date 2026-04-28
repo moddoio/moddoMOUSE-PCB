@@ -337,7 +337,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=LFZCXRAI
 
 [Document18]
 DocumentPath=..\..\..\Altium-Library\Symbols\Connectors.SchLib
@@ -354,7 +354,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=TNUSWCUM
 
 [Document19]
 DocumentPath=..\..\..\Altium-Library\Symbols\Diodes.SchLib
@@ -371,7 +371,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=COOMOXUX
 
 [Document20]
 DocumentPath=..\..\..\Altium-Library\Symbols\Inductors.SchLib
@@ -388,7 +388,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=AYXLPKQL
 
 [Document21]
 DocumentPath=..\..\..\Altium-Library\Symbols\IntegratedCircuits.SchLib
@@ -405,7 +405,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=TEOWDNJM
 
 [Document22]
 DocumentPath=..\..\..\Altium-Library\Symbols\Modules.SchLib
@@ -422,7 +422,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=OJKRALTS
 
 [Document23]
 DocumentPath=..\..\..\Altium-Library\Symbols\Oscillators.SchLib
@@ -439,7 +439,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=BTQUEOYX
 
 [Document24]
 DocumentPath=..\..\..\Altium-Library\Symbols\Others.SchLib
@@ -456,7 +456,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=MWIOXLKW
 
 [Document25]
 DocumentPath=..\..\..\Altium-Library\Symbols\Resistors.SchLib
@@ -473,7 +473,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=YDRUDFNA
 
 [Document26]
 DocumentPath=..\..\..\Altium-Library\Symbols\TestPoint.SchLib
@@ -490,7 +490,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=DOYFHFRR
 
 [Document27]
 DocumentPath=..\..\..\Altium-Library\Symbols\Transistors.SchLib
@@ -507,7 +507,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=LIOLRTEE
 
 [ProjectVariant1]
 UniqueId=346cb599-9a90-4d73-ad65-a336007ebf04
