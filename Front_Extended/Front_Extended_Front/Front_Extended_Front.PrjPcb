@@ -527,6 +527,10 @@ Variation9=Designator=C3|UniqueId=\ZHPZJWSF|Kind=1|AlternatePart=
 Variation10=Designator=C4|UniqueId=\UFEHWYHJ|Kind=1|AlternatePart=
 ParamVariationCount=0
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Front_Extended_Front\Design Rule Check - PCB.html
+DItemRevisionGUID=
+
 [Parameter1]
 Name=Revision
 Value=A
@@ -646,12 +650,22 @@ OutputName20=WireList Netlist
 OutputDocumentPath20=
 OutputVariantName20=
 OutputDefault20=0
+OutputType21=XSpiceNetlist
+OutputName21=Mixed Sim Netlist
+OutputDocumentPath21=
+OutputVariantName21=
+OutputDefault21=0
 
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
 TargetPrinter=Brother HL-L2390DW Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=AdvSimNetlist
+OutputName1=Mixed Sim
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
 
 [OutputGroup3]
 Name=Documentation Outputs
@@ -898,11 +912,6 @@ OutputDocumentPath9=
 OutputVariantName9=[No Variations]
 OutputDefault9=0
 PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType10=BOM_ReportManufacturing
-OutputName10=Manufacturing Data
-OutputDocumentPath10=
-OutputVariantName10=[No Variations]
-OutputDefault10=0
 
 [OutputGroup7]
 Name=Other Outputs
@@ -1197,8 +1206,6 @@ Type156=1
 Type157=1
 Type158=1
 Type159=1
-Type160=1
-Type161=1
 
 [Difference Levels]
 Type1=1
@@ -1288,7 +1295,6 @@ Type84=1
 Type85=1
 Type86=1
 Type87=1
-Type88=1
 
 [Electrical Rules Check]
 Type1=1
@@ -1454,8 +1460,6 @@ Type160=0
 Type161=0
 Type162=1
 Type163=1
-Type164=1
-Type165=2
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
