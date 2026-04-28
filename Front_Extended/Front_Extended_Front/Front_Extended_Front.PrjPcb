@@ -44,6 +44,7 @@ CrossRefPorts=3
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
 CrossRefFollowFromMainSettings=1
+CurrentVariant=Main
 
 [Preferences]
 PrefsVaultGUID=
@@ -84,7 +85,7 @@ GenerateClassCluster=0
 DocumentUniqueId=DRVMYPDQ
 
 [Document3]
-DocumentPath=..\Release.outjob
+DocumentPath=..\..\Release.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -101,7 +102,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document4]
-DocumentPath=..\Altium-Library\Footprints\Capacitors.PcbLib
+DocumentPath=Pcb\PcbPanel.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -115,383 +116,9 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=DFMBMKTS
 
 [Document5]
-DocumentPath=..\Altium-Library\Footprints\Connectors.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document6]
-DocumentPath=..\Altium-Library\Footprints\Diodes.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document7]
-DocumentPath=..\Altium-Library\Footprints\Inductors.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document8]
-DocumentPath=..\Altium-Library\Footprints\IntegratedCircuits.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document9]
-DocumentPath=..\Altium-Library\Footprints\Modules.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document10]
-DocumentPath=..\Altium-Library\Footprints\Oscillators.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document11]
-DocumentPath=..\Altium-Library\Footprints\Others.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=AIBFEOMK
-
-[Document12]
-DocumentPath=..\Altium-Library\Footprints\Resistors.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document13]
-DocumentPath=..\Altium-Library\Footprints\TestPoint.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document14]
-DocumentPath=..\Altium-Library\Footprints\Transistors.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document15]
-DocumentPath=..\Altium-Library\Symbols\Capacitors.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document16]
-DocumentPath=..\Altium-Library\Symbols\Connectors.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document17]
-DocumentPath=..\Altium-Library\Symbols\Diodes.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document18]
-DocumentPath=..\Altium-Library\Symbols\Inductors.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document19]
-DocumentPath=..\Altium-Library\Symbols\IntegratedCircuits.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document20]
-DocumentPath=..\Altium-Library\Symbols\Modules.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document21]
-DocumentPath=..\Altium-Library\Symbols\Oscillators.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document22]
-DocumentPath=..\Altium-Library\Symbols\Others.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=MWIOXLKW
-
-[Document23]
-DocumentPath=..\Altium-Library\Symbols\Resistors.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document24]
-DocumentPath=..\Altium-Library\Symbols\TestPoint.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document25]
-DocumentPath=..\Altium-Library\Symbols\Transistors.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document26]
-DocumentPath=..\Library\Misc.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=JAYYVWNI
-
-[Document27]
 DocumentPath=BoM.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -508,181 +135,401 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for Front_Default\Design Rule Check - PCB.html
+[Document6]
+DocumentPath=..\..\..\Altium-Library\Footprints\Capacitors.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
 DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
 
-[GeneratedDocument2]
-DocumentPath=Project Outputs for Front_Lite_Right\Design Rule Check - PCB.html
+[Document7]
+DocumentPath=..\..\..\Altium-Library\Footprints\Connectors.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
 DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
 
-[GeneratedDocument3]
-DocumentPath=Project Outputs for mouseNano\Design Rule Check - PCB.html
+[Document8]
+DocumentPath=..\..\..\Altium-Library\Footprints\Diodes.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
 DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
 
-[GeneratedDocument4]
-DocumentPath=Project Outputs for protoMouse_Front_Default\Design Rule Check - PCB.html
+[Document9]
+DocumentPath=..\..\..\Altium-Library\Footprints\Inductors.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
 DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
 
-[GeneratedDocument5]
-DocumentPath=Project Outputs for Front_Default\PCB-RectHoles.TXT
+[Document10]
+DocumentPath=..\..\..\Altium-Library\Footprints\IntegratedCircuits.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
 DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
 
-[GeneratedDocument6]
-DocumentPath=Project Outputs for mouseNano\PCB-RectHoles.TXT
+[Document11]
+DocumentPath=..\..\..\Altium-Library\Footprints\Modules.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
 DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
 
-[GeneratedDocument7]
-DocumentPath=Project Outputs for mouseNano\PCB-RoundHoles.TXT
+[Document12]
+DocumentPath=..\..\..\Altium-Library\Footprints\Oscillators.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
 DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
 
-[GeneratedDocument8]
-DocumentPath=Project Outputs for mouseNano\PCB-SlotHoles.TXT
+[Document13]
+DocumentPath=..\..\..\Altium-Library\Footprints\Others.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
 DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
 
-[GeneratedDocument9]
-DocumentPath=Project Outputs for Front_Default\PCB.DRR
+[Document14]
+DocumentPath=..\..\..\Altium-Library\Footprints\Resistors.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
 DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
 
-[GeneratedDocument10]
-DocumentPath=Project Outputs for mouseNano\PCB.DRR
+[Document15]
+DocumentPath=..\..\..\Altium-Library\Footprints\TestPoint.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
 DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
 
-[GeneratedDocument11]
-DocumentPath=Project Outputs for Front_Default\PCB.EXTREP
+[Document16]
+DocumentPath=..\..\..\Altium-Library\Footprints\Transistors.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
 DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
 
-[GeneratedDocument12]
-DocumentPath=Project Outputs for mouseNano\PCB.EXTREP
+[Document17]
+DocumentPath=..\..\..\Altium-Library\Symbols\Capacitors.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
 DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
 
-[GeneratedDocument13]
-DocumentPath=Project Outputs for Front_Default\PCB.GBL
+[Document18]
+DocumentPath=..\..\..\Altium-Library\Symbols\Connectors.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
 DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
 
-[GeneratedDocument14]
-DocumentPath=Project Outputs for mouseNano\PCB.GBL
+[Document19]
+DocumentPath=..\..\..\Altium-Library\Symbols\Diodes.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
 DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
 
-[GeneratedDocument15]
-DocumentPath=Project Outputs for Front_Default\PCB.GBO
+[Document20]
+DocumentPath=..\..\..\Altium-Library\Symbols\Inductors.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
 DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
 
-[GeneratedDocument16]
-DocumentPath=Project Outputs for mouseNano\PCB.GBO
+[Document21]
+DocumentPath=..\..\..\Altium-Library\Symbols\IntegratedCircuits.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
 DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
 
-[GeneratedDocument17]
-DocumentPath=Project Outputs for Front_Default\PCB.GBP
+[Document22]
+DocumentPath=..\..\..\Altium-Library\Symbols\Modules.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
 DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
 
-[GeneratedDocument18]
-DocumentPath=Project Outputs for mouseNano\PCB.GBP
+[Document23]
+DocumentPath=..\..\..\Altium-Library\Symbols\Oscillators.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
 DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
 
-[GeneratedDocument19]
-DocumentPath=Project Outputs for Front_Default\PCB.GBS
+[Document24]
+DocumentPath=..\..\..\Altium-Library\Symbols\Others.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
 DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
 
-[GeneratedDocument20]
-DocumentPath=Project Outputs for mouseNano\PCB.GBS
+[Document25]
+DocumentPath=..\..\..\Altium-Library\Symbols\Resistors.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
 DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
 
-[GeneratedDocument21]
-DocumentPath=Project Outputs for Front_Default\PCB.GKO
+[Document26]
+DocumentPath=..\..\..\Altium-Library\Symbols\TestPoint.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
 DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
 
-[GeneratedDocument22]
-DocumentPath=Project Outputs for mouseNano\PCB.GKO
+[Document27]
+DocumentPath=..\..\..\Altium-Library\Symbols\Transistors.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
 DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
 
-[GeneratedDocument23]
-DocumentPath=Project Outputs for Front_Default\PCB.GM
-DItemRevisionGUID=
-
-[GeneratedDocument24]
-DocumentPath=Project Outputs for mouseNano\PCB.GM
-DItemRevisionGUID=
-
-[GeneratedDocument25]
-DocumentPath=Project Outputs for Front_Default\PCB.GPB
-DItemRevisionGUID=
-
-[GeneratedDocument26]
-DocumentPath=Project Outputs for mouseNano\PCB.GPB
-DItemRevisionGUID=
-
-[GeneratedDocument27]
-DocumentPath=Project Outputs for Front_Default\PCB.GPT
-DItemRevisionGUID=
-
-[GeneratedDocument28]
-DocumentPath=Project Outputs for mouseNano\PCB.GPT
-DItemRevisionGUID=
-
-[GeneratedDocument29]
-DocumentPath=Project Outputs for Front_Default\PCB.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument30]
-DocumentPath=Project Outputs for mouseNano\PCB.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument31]
-DocumentPath=Project Outputs for Front_Default\PCB.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument32]
-DocumentPath=Project Outputs for mouseNano\PCB.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument33]
-DocumentPath=Project Outputs for Front_Default\PCB.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument34]
-DocumentPath=Project Outputs for mouseNano\PCB.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument35]
-DocumentPath=Project Outputs for Front_Default\PCB.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument36]
-DocumentPath=Project Outputs for mouseNano\PCB.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument37]
-DocumentPath=Project Outputs for Front_Default\PCB.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument38]
-DocumentPath=Project Outputs for mouseNano\PCB.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument39]
-DocumentPath=Project Outputs for Front_Default\PCB.REP
-DItemRevisionGUID=
-
-[GeneratedDocument40]
-DocumentPath=Project Outputs for mouseNano\PCB.REP
-DItemRevisionGUID=
-
-[GeneratedDocument41]
-DocumentPath=Project Outputs for Front_Default\PCB.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument42]
-DocumentPath=Project Outputs for mouseNano\PCB.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument43]
-DocumentPath=Project Outputs for Front_Default\PCB.TXT
-DItemRevisionGUID=
+[ProjectVariant1]
+UniqueId=346cb599-9a90-4d73-ad65-a336007ebf04
+Description=Main
+AllowFabrication=0
+ParameterCount=0
+VariationCount=10
+Variation1=Designator=R1|UniqueId=\PXERPYVK|Kind=1|AlternatePart=
+Variation2=Designator=R5|UniqueId=\LFALBJCL|Kind=1|AlternatePart=
+Variation3=Designator=R2|UniqueId=\PBYNABKU|Kind=1|AlternatePart=
+Variation4=Designator=R3|UniqueId=\WDCGJLSA|Kind=1|AlternatePart=
+Variation5=Designator=R4|UniqueId=\FNZTMIPF|Kind=1|AlternatePart=
+Variation6=Designator=C5|UniqueId=\PJYWZCKU|Kind=1|AlternatePart=
+Variation7=Designator=C1|UniqueId=\IMQYIYOS|Kind=1|AlternatePart=
+Variation8=Designator=C2|UniqueId=\XSCWDXQJ|Kind=1|AlternatePart=
+Variation9=Designator=C3|UniqueId=\ZHPZJWSF|Kind=1|AlternatePart=
+Variation10=Designator=C4|UniqueId=\UFEHWYHJ|Kind=1|AlternatePart=
+ParamVariationCount=0
 
 [Parameter1]
 Name=Revision
-Value=A2
+Value=A
 
 [Configuration1]
 Name=Sources
@@ -799,22 +646,12 @@ OutputName20=WireList Netlist
 OutputDocumentPath20=
 OutputVariantName20=
 OutputDefault20=0
-OutputType21=XSpiceNetlist
-OutputName21=Mixed Sim Netlist
-OutputDocumentPath21=
-OutputVariantName21=
-OutputDefault21=0
 
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
 TargetPrinter=Brother HL-L2390DW Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
-OutputType1=AdvSimNetlist
-OutputName1=Mixed Sim
-OutputDocumentPath1=
-OutputVariantName1=
-OutputDefault1=0
 
 [OutputGroup3]
 Name=Documentation Outputs
@@ -1061,6 +898,11 @@ OutputDocumentPath9=
 OutputVariantName9=[No Variations]
 OutputDefault9=0
 PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType10=BOM_ReportManufacturing
+OutputName10=Manufacturing Data
+OutputDocumentPath10=
+OutputVariantName10=[No Variations]
+OutputDefault10=0
 
 [OutputGroup7]
 Name=Other Outputs
@@ -1183,36 +1025,6 @@ OutputName12=Export STEP
 OutputDocumentPath12=
 OutputVariantName12=
 OutputDefault12=0
-OutputType13=Ansoft Neutral
-OutputName13=Ansoft Neutral (AutoPCB)
-OutputDocumentPath13=
-OutputVariantName13=
-OutputDefault13=0
-OutputType14=HyperLynx
-OutputName14=HyperLynx (AutoPCB)
-OutputDocumentPath14=
-OutputVariantName14=
-OutputDefault14=0
-OutputType15=MathWorks
-OutputName15=MathWorks (AutoPCB)
-OutputDocumentPath15=
-OutputVariantName15=
-OutputDefault15=0
-OutputType16=Orcad v7 Capture Design
-OutputName16=Orcad v7 Capture Design (AutoSCH)
-OutputDocumentPath16=
-OutputVariantName16=
-OutputDefault16=0
-OutputType17=P-CAD ASCII
-OutputName17=P-CAD ASCII (AutoPCB)
-OutputDocumentPath17=
-OutputVariantName17=
-OutputDefault17=0
-OutputType18=P-CAD V16 Schematic Design
-OutputName18=P-CAD V16 Schematic Design (AutoSCH)
-OutputDocumentPath18=
-OutputVariantName18=
-OutputDefault18=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
@@ -1385,6 +1197,8 @@ Type156=1
 Type157=1
 Type158=1
 Type159=1
+Type160=1
+Type161=1
 
 [Difference Levels]
 Type1=1
@@ -1474,6 +1288,7 @@ Type84=1
 Type85=1
 Type86=1
 Type87=1
+Type88=1
 
 [Electrical Rules Check]
 Type1=1
@@ -1639,6 +1454,8 @@ Type160=0
 Type161=0
 Type162=1
 Type163=1
+Type164=1
+Type165=2
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
@@ -1686,137 +1503,41 @@ UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
-ComponentLibraryIdentifier0=Inductors.SchLib
-ComponentDesignItemID0=LQG15HN15NH02D
-ComponentSymbolReference0=LQG15HN15NH02D
+ComponentLibraryIdentifier0=Miscellaneous Devices.IntLib
+ComponentDesignItemID0=Res1
+ComponentSymbolReference0=Res1
 ComponentUpdate0=0
 ComponentIsDeviceSheet0=0
 ComponentLibIdentifierKind1=Library Name And Type
-ComponentLibraryIdentifier1=juskim_SchLib.SchLib
-ComponentDesignItemID1=TitleBlock_juskim
-ComponentSymbolReference1=TitleBlock_juskim
-ComponentUpdate1=0
+ComponentLibraryIdentifier1=MySchematics.SchLib
+ComponentDesignItemID1=1.27mm_8pins
+ComponentSymbolReference1=1.27mm_8pins
+ComponentUpdate1=1
 ComponentIsDeviceSheet1=0
 ComponentLibIdentifierKind2=Library Name And Type
-ComponentLibraryIdentifier2=Miscellaneous Devices.IntLib
-ComponentDesignItemID2=Res1
-ComponentSymbolReference2=Res1
+ComponentLibraryIdentifier2=MySchematics.SchLib
+ComponentDesignItemID2=EC10E1220501
+ComponentSymbolReference2=EC10E1220501
 ComponentUpdate2=0
 ComponentIsDeviceSheet2=0
 ComponentLibIdentifierKind3=Library Name And Type
-ComponentLibraryIdentifier3=MySchematics.SchLib
-ComponentDesignItemID3=2450AT07A0100T
-ComponentSymbolReference3=2450AT07A0100T
+ComponentLibraryIdentifier3=Nordic Passive DB.DbLib/Capacitors$
+ComponentDesignItemID3=C0402-1µ0
+ComponentSymbolReference3=CAP
 ComponentUpdate3=0
 ComponentIsDeviceSheet3=0
 ComponentLibIdentifierKind4=Library Name And Type
-ComponentLibraryIdentifier4=MySchematics.SchLib
-ComponentDesignItemID4=AYZ0102AGRLC
-ComponentSymbolReference4=AYZ0102AGRLC
+ComponentLibraryIdentifier4=Others.SchLib
+ComponentDesignItemID4=Microswitch
+ComponentSymbolReference4=Microswitch
 ComponentUpdate4=0
 ComponentIsDeviceSheet4=0
 ComponentLibIdentifierKind5=Library Name And Type
-ComponentLibraryIdentifier5=MySchematics.SchLib
-ComponentDesignItemID5=Microswitch
-ComponentSymbolReference5=Microswitch
+ComponentLibraryIdentifier5=Others.SchLib
+ComponentDesignItemID5=TS02-66-70-BK-100-SCR-D
+ComponentSymbolReference5=TS02-66-70-BK-100-SCR-D
 ComponentUpdate5=0
 ComponentIsDeviceSheet5=0
-ComponentLibIdentifierKind6=Library Name And Type
-ComponentLibraryIdentifier6=MySchematics.SchLib
-ComponentDesignItemID6=nPM1100-QDAB
-ComponentSymbolReference6=nPM1100-QDAB
-ComponentUpdate6=0
-ComponentIsDeviceSheet6=0
-ComponentLibIdentifierKind7=Library Name And Type
-ComponentLibraryIdentifier7=MySchematics.SchLib
-ComponentDesignItemID7=nRF54L15-QFAA
-ComponentSymbolReference7=nRF54L15-QFAA
-ComponentUpdate7=0
-ComponentIsDeviceSheet7=0
-ComponentLibIdentifierKind8=Library Name And Type
-ComponentLibraryIdentifier8=MySchematics.SchLib
-ComponentDesignItemID8=PAW3395
-ComponentSymbolReference8=PAW3395
-ComponentUpdate8=1
-ComponentIsDeviceSheet8=0
-ComponentLibIdentifierKind9=Library Name And Type
-ComponentLibraryIdentifier9=MySchematics.SchLib
-ComponentDesignItemID9=SC12S-9PF20PPM
-ComponentSymbolReference9=SC12S-9PF20PPM
-ComponentUpdate9=0
-ComponentIsDeviceSheet9=0
-ComponentLibIdentifierKind10=Library Name And Type
-ComponentLibraryIdentifier10=MySchematics.SchLib
-ComponentDesignItemID10=STD-CIX-1-32M
-ComponentSymbolReference10=STD-CIX-1-32M
-ComponentUpdate10=0
-ComponentIsDeviceSheet10=0
-ComponentLibIdentifierKind11=Library Name And Type
-ComponentLibraryIdentifier11=MySchematics.SchLib
-ComponentDesignItemID11=Testpoint_1mm
-ComponentSymbolReference11=Testpoint_1mm
-ComponentUpdate11=0
-ComponentIsDeviceSheet11=0
-ComponentLibIdentifierKind12=Library Name And Type
-ComponentLibraryIdentifier12=Nordic Passive DB.DbLib/Capacitors$
-ComponentDesignItemID12=C0402-1µ0
-ComponentSymbolReference12=CAP
-ComponentUpdate12=0
-ComponentIsDeviceSheet12=0
-ComponentLibIdentifierKind13=Vault Name
-ComponentLibraryIdentifier13=Altium Content Vault
-ComponentDesignItemID13=CMP-0394-01054-2
-ComponentSymbolReference13=TI-TXX7XXXX-5
-ComponentUpdate13=0
-ComponentIsDeviceSheet13=0
-ComponentLibIdentifierKind14=Vault Name
-ComponentLibraryIdentifier14=Altium Content Vault
-ComponentDesignItemID14=CMP-06284-000031-1
-ComponentSymbolReference14=9a58687fb20c11cd38d39b7dac8df0f
-ComponentUpdate14=0
-ComponentIsDeviceSheet14=0
-ComponentLibIdentifierKind15=Vault Name
-ComponentLibraryIdentifier15=Altium Content Vault
-ComponentDesignItemID15=CMP-0686-00133-3
-ComponentSymbolReference15=5f30dd21d616792df468990f7003faa
-ComponentUpdate15=0
-ComponentIsDeviceSheet15=0
-ComponentLibIdentifierKind16=Vault Name
-ComponentLibraryIdentifier16=Altium Content Vault
-ComponentDesignItemID16=CMP-1241-00114-1
-ComponentSymbolReference16=MOLX-503480-0800
-ComponentUpdate16=0
-ComponentIsDeviceSheet16=0
-ComponentLibIdentifierKind17=Vault Name
-ComponentLibraryIdentifier17=Altium Content Vault
-ComponentDesignItemID17=CMP-1259-00113-1
-ComponentSymbolReference17=NXP-NPMOS-SGDSGD-6
-ComponentUpdate17=0
-ComponentIsDeviceSheet17=0
-ComponentLibIdentifierKind18=Vault Name
-ComponentLibraryIdentifier18=Altium Content Vault
-ComponentDesignItemID18=CMP-12790-000048-1
-ComponentSymbolReference18=1d6ec82d83fb6aee721767c19dac4b9
-ComponentUpdate18=0
-ComponentIsDeviceSheet18=0
-ComponentLibIdentifierKind19=Vault Name
-ComponentLibraryIdentifier19=Altium Content Vault
-ComponentDesignItemID19=CMP-1426-00001-3
-ComponentSymbolReference19=LED_Red_2A-1K
-ComponentUpdate19=0
-ComponentIsDeviceSheet19=0
-ComponentLibIdentifierKind20=Vault Name
-ComponentLibraryIdentifier20=Altium Content Vault
-ComponentDesignItemID20=CMP-1426-00002-3
-ComponentSymbolReference20=LED_Green_2A-1K
-ComponentUpdate20=0
-ComponentIsDeviceSheet20=0
-ComponentLibIdentifierKind21=Vault Name
-ComponentLibraryIdentifier21=Altium Content Vault
-ComponentDesignItemID21=CMP-245163-000001-1
-ComponentSymbolReference21=e7c17a616881a82b79941196b4bec10
-ComponentUpdate21=0
-ComponentIsDeviceSheet21=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1830,507 +1551,211 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
-ParameterName0=Accuracy(%)
+ParameterName0=Case Code (Imperial)
 ParameterUpdate0=1
-ParameterName1=Automotive
+ParameterName1=Case Code (Metric)
 ParameterUpdate1=1
-ParameterName2=Automotive Grade
+ParameterName2=Case/Package
 ParameterUpdate2=1
-ParameterName3=Automotive Qualified
+ParameterName3=Category
 ParameterUpdate3=1
-ParameterName4=Capacitance
+ParameterName4=Color
 ParameterUpdate4=1
-ParameterName5=Case Code (Imperial)
+ParameterName5=Comment
 ParameterUpdate5=1
-ParameterName6=Case Code (Metric)
+ParameterName6=Component Kind
 ParameterUpdate6=1
-ParameterName7=Case/Package
+ParameterName7=ComponentLink10Description
 ParameterUpdate7=1
-ParameterName8=Category
+ParameterName8=ComponentLink10URL
 ParameterUpdate8=1
-ParameterName9=Channel Type
+ParameterName9=ComponentLink11Description
 ParameterUpdate9=1
-ParameterName10=Circuits (Loaded)
+ParameterName10=ComponentLink11URL
 ParameterUpdate10=1
-ParameterName11=Code_JEDEC
+ParameterName11=ComponentLink12Description
 ParameterUpdate11=1
-ParameterName12=Code_JEITA
+ParameterName12=ComponentLink12URL
 ParameterUpdate12=1
-ParameterName13=Color
+ParameterName13=ComponentLink13Description
 ParameterUpdate13=1
-ParameterName14=Comment
+ParameterName14=ComponentLink13URL
 ParameterUpdate14=1
-ParameterName15=Component Kind
+ParameterName15=ComponentLink14Description
 ParameterUpdate15=1
-ParameterName16=ComponentLink1Description
+ParameterName16=ComponentLink14URL
 ParameterUpdate16=1
-ParameterName17=ComponentLink1URL
+ParameterName17=ComponentLink15Description
 ParameterUpdate17=1
-ParameterName18=ComponentLink2Description
+ParameterName18=ComponentLink15URL
 ParameterUpdate18=1
-ParameterName19=ComponentLink2URL
+ParameterName19=ComponentLink1Description
 ParameterUpdate19=1
-ParameterName20=ComponentLink3Description
+ParameterName20=ComponentLink1URL
 ParameterUpdate20=1
-ParameterName21=ComponentLink3URL
+ParameterName21=ComponentLink2Description
 ParameterUpdate21=1
-ParameterName22=ComponentLink4Description
+ParameterName22=ComponentLink2URL
 ParameterUpdate22=1
-ParameterName23=ComponentLink4URL
+ParameterName23=ComponentLink3Description
 ParameterUpdate23=1
-ParameterName24=ComponentLink5Description
+ParameterName24=ComponentLink3URL
 ParameterUpdate24=1
-ParameterName25=ComponentLink5URL
+ParameterName25=ComponentLink4Description
 ParameterUpdate25=1
-ParameterName26=ComponentLink6Description
+ParameterName26=ComponentLink4URL
 ParameterUpdate26=1
-ParameterName27=ComponentLink6URL
+ParameterName27=ComponentLink5Description
 ParameterUpdate27=1
-ParameterName28=ComponentLink7Description
+ParameterName28=ComponentLink5URL
 ParameterUpdate28=1
-ParameterName29=ComponentLink7URL
+ParameterName29=ComponentLink6Description
 ParameterUpdate29=1
-ParameterName30=ComponentLink8Description
+ParameterName30=ComponentLink6URL
 ParameterUpdate30=1
-ParameterName31=ComponentLink8URL
+ParameterName31=ComponentLink7Description
 ParameterUpdate31=1
-ParameterName32=ComponentLink9Description
+ParameterName32=ComponentLink7URL
 ParameterUpdate32=1
-ParameterName33=ComponentLink9URL
+ParameterName33=ComponentLink8Description
 ParameterUpdate33=1
-ParameterName34=Conn Orientation
+ParameterName34=ComponentLink8URL
 ParameterUpdate34=1
-ParameterName35=Construction
+ParameterName35=ComponentLink9Description
 ParameterUpdate35=1
-ParameterName36=Contact Material
+ParameterName36=ComponentLink9URL
 ParameterUpdate36=1
 ParameterName37=Contact Plating
 ParameterUpdate37=1
-ParameterName38=Contact Position
+ParameterName38=Contact Resistance
 ParameterUpdate38=1
-ParameterName39=Core Material
+ParameterName39=Description
 ParameterUpdate39=1
-ParameterName40=Current (Max per Contact)
+ParameterName40=Electrical Life
 ParameterUpdate40=1
-ParameterName41=Current Rating
+ParameterName41=Height
 ParameterUpdate41=1
-ParameterName42=DatasheetVersion
+ParameterName42=Housing Material
 ParameterUpdate42=1
-ParameterName43=DC Resistance (DCR)
+ParameterName43=Insulation Resistance
 ParameterUpdate43=1
-ParameterName44=Depth
+ParameterName44=Length
 ParameterUpdate44=1
-ParameterName45=Description
+ParameterName45=Library Reference
 ParameterUpdate45=1
-ParameterName46=Device Class L1
+ParameterName46=Lifecycle Status
 ParameterUpdate46=1
-ParameterName47=Device Class L2
+ParameterName47=Manufacturer
 ParameterUpdate47=1
-ParameterName48=Device Class L3
+ParameterName48=Manufacturer Part Number
 ParameterUpdate48=1
-ParameterName49=Dielectric
+ParameterName49=Material
 ParameterUpdate49=1
-ParameterName50=Digikey Description
+ParameterName50=Max Current Rating
 ParameterUpdate50=1
-ParameterName51=Digi-Key_Part_Number
+ParameterName51=Max Operating Temperature
 ParameterUpdate51=1
-ParameterName52=Digi-Key_Purchase_URL
+ParameterName52=Max Voltage Rating (DC)
 ParameterUpdate52=1
-ParameterName53=Dominant Wavelength
+ParameterName53=Min Operating Temperature
 ParameterUpdate53=1
-ParameterName54=Durability (mating cycles max)
+ParameterName54=Mounting Technology
 ParameterUpdate54=1
-ParameterName55=Eco-Plan
+ParameterName55=Number of Positions
 ParameterUpdate55=1
-ParameterName56=Entry Angle
+ParameterName56=Operating Force
 ParameterUpdate56=1
-ParameterName57=ESR
+ParameterName57=Packaging
 ParameterUpdate57=1
-ParameterName58=Features
+ParameterName58=Pricing 1
 ParameterUpdate58=1
-ParameterName59=Fixed Output Options(V)
+ParameterName59=REACH SVHC
 ParameterUpdate59=1
-ParameterName60=Footprint
+ParameterName60=RoHS
 ParameterUpdate60=1
-ParameterName61=Footprint Url
+ParameterName61=RoHS Compliant
 ParameterUpdate61=1
-ParameterName62=Forward Current
+ParameterName62=Series
 ParameterUpdate62=1
-ParameterName63=Forward Voltage
+ParameterName63=Stock 1
 ParameterUpdate63=1
-ParameterName64=Halogen Free
+ParameterName64=Supplier 1
 ParameterUpdate64=1
-ParameterName65=Height
+ParameterName65=Supplier Part Number 1
 ParameterUpdate65=1
-ParameterName66=Height - Seated (Max)
+ParameterName66=Terminal Material
 ParameterUpdate66=1
-ParameterName67=Impedance
+ParameterName67=Thickness
 ParameterUpdate67=1
-ParameterName68=Interface
+ParameterName68=Throw Configuration
 ParameterUpdate68=1
-ParameterName69=Iout(Max)(A)
+ParameterName69=Tolerance
 ParameterUpdate69=1
-ParameterName70=Ipc Land Pattern Name
+ParameterName70=Value
 ParameterUpdate70=1
-ParameterName71=Iq(Typ)(mA)
+ParameterName71=Voltage Rating
 ParameterUpdate71=1
-ParameterName72=Is Female
+ParameterName72=Voltage Rating (DC)
 ParameterUpdate72=1
-ParameterName73=Lead Free
+ParameterName73=Width
 ParameterUpdate73=1
-ParameterName74=Length
-ParameterUpdate74=1
-ParameterName75=Lens Style
-ParameterUpdate75=1
-ParameterName76=Library Reference
-ParameterUpdate76=1
-ParameterName77=Link - DigiKey
-ParameterUpdate77=1
-ParameterName78=Link - Mouser
-ParameterUpdate78=1
-ParameterName79=Luminous Intensity
-ParameterUpdate79=1
-ParameterName80=Manufacturer
-ParameterUpdate80=1
-ParameterName81=Manufacturer Part Number
-ParameterUpdate81=1
-ParameterName82=Mated Height
-ParameterUpdate82=1
-ParameterName83=Material
-ParameterUpdate83=1
-ParameterName84=Material - Metal
-ParameterUpdate84=1
-ParameterName85=Material - Plating Mating
-ParameterUpdate85=1
-ParameterName86=Material - Plating Termination
-ParameterUpdate86=1
-ParameterName87=Max Current Rating
-ParameterUpdate87=1
-ParameterName88=Max DC Current
-ParameterUpdate88=1
-ParameterName89=Max Junction Temp
-ParameterUpdate89=1
-ParameterName90=Max Junction Temperature (Tj)
-ParameterUpdate90=1
-ParameterName91=Max Operating Temperature
-ParameterUpdate91=1
-ParameterName92=Max Power Dissipation
-ParameterUpdate92=1
-ParameterName93=Max Repetitive Reverse Voltage
-ParameterUpdate93=1
-ParameterName94=Max Reverse Voltage (DC)
-ParameterUpdate94=1
-ParameterName95=Max Surge Forward Current
-ParameterUpdate95=1
-ParameterName96=MF
-ParameterUpdate96=1
-ParameterName97=Military Standard
-ParameterUpdate97=1
-ParameterName98=Min Operating Temperature
-ParameterUpdate98=1
-ParameterName99=Mount
-ParameterUpdate99=1
-ParameterName100=Mounting Technology
-ParameterUpdate100=1
-ParameterName101=Mouser Description
-ParameterUpdate101=1
-ParameterName102=MP
-ParameterUpdate102=1
-ParameterName103=NexarPartId
-ParameterUpdate103=1
-ParameterName104=Number of Circuits
-ParameterUpdate104=1
-ParameterName105=Number Of Contacts
-ParameterUpdate105=1
-ParameterName106=Number of Lines
-ParameterUpdate106=1
-ParameterName107=Number of Pins
-ParameterUpdate107=1
-ParameterName108=Number of Rows
-ParameterUpdate108=1
-ParameterName109=Number of Terminations
-ParameterUpdate109=1
-ParameterName110=Octopart
-ParameterUpdate110=1
-ParameterName111=Operating Supply Current
-ParameterUpdate111=1
-ParameterName112=Orientation
-ParameterUpdate112=1
-ParameterName113=Output Current
-ParameterUpdate113=1
-ParameterName114=Package
-ParameterUpdate114=1
-ParameterName115=Package Quantity
-ParameterUpdate115=1
-ParameterName116=PackageDescription
-ParameterUpdate116=1
-ParameterName117=PackageReference
-ParameterUpdate117=1
-ParameterName118=PackageVersion
-ParameterUpdate118=1
-ParameterName119=Packaging
-ParameterUpdate119=1
-ParameterName120=Packing
-ParameterUpdate120=1
-ParameterName121=PartNumber
-ParameterUpdate121=1
-ParameterName122=PCB Locator
-ParameterUpdate122=1
-ParameterName123=PCB Retention
-ParameterUpdate123=1
-ParameterName124=Peak Reverse Current
-ParameterUpdate124=1
-ParameterName125=Peak Wavelength
-ParameterUpdate125=1
-ParameterName126=Pin Count
-ParameterUpdate126=1
-ParameterName127=Pins
-ParameterUpdate127=1
-ParameterName128=Pitch - Mating Interface
-ParameterUpdate128=1
-ParameterName129=Polarized to PCB
-ParameterUpdate129=1
-ParameterName130=Power Dissipation
-ParameterUpdate130=1
-ParameterName131=Power Rating
-ParameterUpdate131=1
-ParameterName132=Pricing 1
-ParameterUpdate132=1
-ParameterName133=Radiation Hardening
-ParameterUpdate133=1
-ParameterName134=Ratings
-ParameterUpdate134=1
-ParameterName135=REACH SVHC
-ParameterUpdate135=1
-ParameterName136=Reach SVHC Compliant
-ParameterUpdate136=1
-ParameterName137=Resistance Tolerance
-ParameterUpdate137=1
-ParameterName138=Resistor Type
-ParameterUpdate138=1
-ParameterName139=Reverse Voltage
-ParameterUpdate139=1
-ParameterName140=RMS Current (Irms)
-ParameterUpdate140=1
-ParameterName141=RoHS
-ParameterUpdate141=1
-ParameterName142=RoHS Compliant
-ParameterUpdate142=1
-ParameterName143=Saturation Current
-ParameterUpdate143=1
-ParameterName144=Self Resonant Frequency
-ParameterUpdate144=1
-ParameterName145=Series
-ParameterUpdate145=1
-ParameterName146=Shielding
-ParameterUpdate146=1
-ParameterName147=SnapEDA_Link
-ParameterUpdate147=1
-ParameterName148=Stackable
-ParameterUpdate148=1
-ParameterName149=Standoff Height
-ParameterUpdate149=1
-ParameterName150=Stock 1
-ParameterUpdate150=1
-ParameterName151=SubFamily
-ParameterUpdate151=1
-ParameterName152=Supplier 1
-ParameterUpdate152=1
-ParameterName153=Supplier Part Number 1
-ParameterUpdate153=1
-ParameterName154=Technology
-ParameterUpdate154=1
-ParameterName155=Temperature
-ParameterUpdate155=1
-ParameterName156=Temperature Coefficient
-ParameterUpdate156=1
-ParameterName157=Temperature Range High
-ParameterUpdate157=1
-ParameterName158=Temperature Range Low
-ParameterUpdate158=1
-ParameterName159=Termination
-ParameterUpdate159=1
-ParameterName160=Test Current
-ParameterUpdate160=1
-ParameterName161=Test Frequency
-ParameterUpdate161=1
-ParameterName162=Thickness
-ParameterUpdate162=1
-ParameterName163=Tolerance
-ParameterUpdate163=1
-ParameterName164=Usb Standard
-ParameterUpdate164=1
-ParameterName165=Value
-ParameterUpdate165=1
-ParameterName166=Vdo(Typ)(mV)
-ParameterUpdate166=1
-ParameterName167=Viewing Angle
-ParameterUpdate167=1
-ParameterName168=Vin(Max)(V)
-ParameterUpdate168=1
-ParameterName169=Vin(Min)(V)
-ParameterUpdate169=1
-ParameterName170=Voltage
-ParameterUpdate170=1
-ParameterName171=Voltage (Max)
-ParameterUpdate171=1
-ParameterName172=Voltage Rating
-ParameterUpdate172=1
-ParameterName173=Voltage Rating (DC)
-ParameterUpdate173=1
-ParameterName174=Vout Adj(Max)(V)
-ParameterUpdate174=1
-ParameterName175=Vout Adj(Min)(V)
-ParameterUpdate175=1
-ParameterName176=Wavelength
-ParameterUpdate176=1
-ParameterName177=Weight
-ParameterUpdate177=1
-ParameterName178=Width
-ParameterUpdate178=1
-ParameterName179=Working Voltage
-ParameterUpdate179=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
-ModelName0=2450AT07A0100T
+ModelName0=1.27mm_8pins_FemaleHeader
 ModelUpdate0=1
 ModelType1=PCBLIB
-ModelName1=AXIAL-0.3
+ModelName1=1.27mm_8pins_NoSill
 ModelUpdate1=1
 ModelType2=PCBLIB
-ModelName2=CAP0201
+ModelName2=1.27mm_9pins_NoSill
 ModelUpdate2=1
 ModelType3=PCBLIB
-ModelName3=CAP0402
+ModelName3=AXIAL-0.3
 ModelUpdate3=1
 ModelType4=PCBLIB
-ModelName4=CAP0603
+ModelName4=CAP0201
 ModelUpdate4=1
 ModelType5=PCBLIB
-ModelName5=CAPC1005X04L
+ModelName5=CAP0402
 ModelUpdate5=1
 ModelType6=PCBLIB
-ModelName6=DDC0005A_L
+ModelName6=CAP0603
 ModelUpdate6=1
 ModelType7=PCBLIB
-ModelName7=DDC0005A_M
+ModelName7=CAPC1005X04L
 ModelUpdate7=1
 ModelType8=PCBLIB
-ModelName8=DDC0005A_N
+ModelName8=HEADER_MALE_1_27mm_8p_HEIGHT_1mm
 ModelUpdate8=1
 ModelType9=PCBLIB
-ModelName9=FP-BLM15-0_05-d0_7-IPC_A
+ModelName9=Microswitch
 ModelUpdate9=1
 ModelType10=PCBLIB
-ModelName10=FP-BLM15-0_05-d0_7-IPC_B
+ModelName10=RES0402
 ModelUpdate10=1
 ModelType11=PCBLIB
-ModelName11=FP-BLM15-0_05-d0_7-IPC_C
+ModelName11=RES0603
 ModelUpdate11=1
 ModelType12=PCBLIB
-ModelName12=FP-BLM15-0_05-d0_7-MFG
+ModelName12=RES0805
 ModelUpdate12=1
 ModelType13=PCBLIB
-ModelName13=FP-C04-127-IPC_A
+ModelName13=THROUGH_SHAFT_ENCODER_9MM
 ModelUpdate13=1
 ModelType14=PCBLIB
-ModelName14=FP-C04-127-IPC_B
+ModelName14=TS02-66-70-BK-100-SCR-D
 ModelUpdate14=1
-ModelType15=PCBLIB
-ModelName15=FP-C04-127-IPC_C
-ModelUpdate15=1
-ModelType16=PCBLIB
-ModelName16=FP-C04-127-MFG
-ModelUpdate16=1
-ModelType17=PCBLIB
-ModelName17=FP-SOD323-IPC_A
-ModelUpdate17=1
-ModelType18=PCBLIB
-ModelName18=FP-SOD323-IPC_B
-ModelUpdate18=1
-ModelType19=PCBLIB
-ModelName19=FP-SOD323-IPC_C
-ModelUpdate19=1
-ModelType20=PCBLIB
-ModelName20=FP-SOD323-MFG
-ModelUpdate20=1
-ModelType21=PCBLIB
-ModelName21=FP-USB4105-GF-A-MFG
-ModelUpdate21=1
-ModelType22=PCBLIB
-ModelName22=IND01008
-ModelUpdate22=1
-ModelType23=PCBLIB
-ModelName23=IND0402
-ModelUpdate23=1
-ModelType24=PCBLIB
-ModelName24=IND0603
-ModelUpdate24=1
-ModelType25=PCBLIB
-ModelName25=L0402
-ModelUpdate25=1
-ModelType26=PCBLIB
-ModelName26=Microswitch
-ModelUpdate26=1
-ModelType27=PCBLIB
-ModelName27=MOLX-503480-0800
-ModelUpdate27=1
-ModelType28=PCBLIB
-ModelName28=NXP-SOT363_L
-ModelUpdate28=1
-ModelType29=PCBLIB
-ModelName29=NXP-SOT363_M
-ModelUpdate29=1
-ModelType30=PCBLIB
-ModelName30=NXP-SOT363_N
-ModelUpdate30=1
-ModelType31=PCBLIB
-ModelName31=PAW3395
-ModelUpdate31=1
-ModelType32=PCBLIB
-ModelName32=QFN24
-ModelUpdate32=1
-ModelType33=PCBLIB
-ModelName33=QFN48_nRF54
-ModelUpdate33=1
-ModelType34=PCBLIB
-ModelName34=RES0402
-ModelUpdate34=1
-ModelType35=PCBLIB
-ModelName35=RES0603
-ModelUpdate35=1
-ModelType36=PCBLIB
-ModelName36=RES0805
-ModelUpdate36=1
-ModelType37=PCBLIB
-ModelName37=SC-12S
-ModelUpdate37=1
-ModelType38=PCBLIB
-ModelName38=STD-CIX-1-32M
-ModelUpdate38=1
-ModelType39=PCBLIB
-ModelName39=SW_AYZ0102AGRLC
-ModelUpdate39=1
-ModelType40=PCBLIB
-ModelName40=Testpoint_1mm
-ModelUpdate40=1
-ModelType41=PCBLIB
-ModelName41=Testpoint_2mm
-ModelUpdate41=1
-ModelType42=PCBLIB
-ModelName42=WL-SMCW_0603_150060xx75000
-ModelUpdate42=1
 ModelTypeGroup1=SI
 ModelTypeUpdate1=1
-ModelType43=SI
-ModelName43=Res
-ModelUpdate43=1
+ModelType15=SI
+ModelName15=Res
+ModelUpdate15=1
 ModelTypeGroup2=SIM
 ModelTypeUpdate2=1
-ModelType44=SIM
-ModelName44=RESISTOR
-ModelUpdate44=1
+ModelType16=SIM
+ModelName16=RESISTOR
+ModelUpdate16=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
