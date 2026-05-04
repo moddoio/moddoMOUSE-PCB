@@ -21,7 +21,7 @@ TargetOutputMedium=PCBA_02.BOM
 VariantName=Main
 VariantScope=1
 CurrentConfigurationName=
-TargetPrinter=Brother HL-L2390DW Printer
+TargetPrinter=Munbyn ITPP130
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputMedium1=PCBA_01.SCHEMATICS
 OutputMedium1_Type=Publish
@@ -59,7 +59,7 @@ OutputEnabled2_OutputMedium3=0
 OutputEnabled2_OutputMedium4=0
 OutputEnabled2_OutputMedium5=0
 OutputDefault2=0
-PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.12|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=0.72|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PrintScaleName=PrintFitPageWidth|PaperKind=Letter|PaperIndex=1
 Configuration2_Name1=OutputConfigurationParameter1
 Configuration2_Item1=Record=SchPrintView|ShowNoERC=True|ShowParamSet=True|ShowProbe=True|ShowBlanket=True|NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle|ShowNote=True|ShowNoteCollapsed=True|ShowOpenEnds=True|ExpandDesignator=True|ExpandNetLabel=False|ExpandPort=False|ExpandSheetNum=False|ExpandDocNum=False|PrintArea=0|PrintAreaRect.X1=0|PrintAreaRect.Y1=0|PrintAreaRect.X2=0|PrintAreaRect.Y2=0|DocumentPath=[Project Physical Documents]
 OutputType3=PCB Print
@@ -2212,7 +2212,7 @@ ShowComponentParameters1=1
 GlobalBookmarks1=0
 PDFACompliance1=Disabled
 PDFVersion1=Default
-OutputFilePath2=C:\Users\JustinKim\Desktop\src_moddo\moddoMOUSE-PCB\Front_Default\Release\PCBA\02.BOM\
+OutputFilePath2=C:\Users\JK\Desktop\src_moddo\moddoMOUSE-PCB\Back_Expansion\Back_Expansion_Base\Release\PCBA\02.BOM\
 ReleaseManaged2=0
 OutputBasePath2=Release\PCBA\02.BOM\
 OutputPathMedia2=
@@ -2268,7 +2268,7 @@ OpenOutput5=0
 [GeneratedFilesSettings]
 RelativeOutputPath1=C:\Users\JK\Desktop\src_protorig\mouse_hw\Release\PCBA\01.SCHEMATICS\
 OpenOutputs1=1
-RelativeOutputPath2=C:\Users\JustinKim\Desktop\src_moddo\moddoMOUSE-PCB\Front_Default\Release\PCBA\02.BOM\
+RelativeOutputPath2=C:\Users\JK\Desktop\src_moddo\moddoMOUSE-PCB\Back_Expansion\Back_Expansion_Base\Release\PCBA\02.BOM\
 OpenOutputs2=1
 AddToProject2=0
 TimestampFolder2=0
