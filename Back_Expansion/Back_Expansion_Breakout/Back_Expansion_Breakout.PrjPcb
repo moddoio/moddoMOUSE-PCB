@@ -44,6 +44,7 @@ CrossRefPorts=3
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
 CrossRefFollowFromMainSettings=1
+CurrentVariant=Main
 
 [Preferences]
 PrefsVaultGUID=
@@ -508,7 +509,21 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[ProjectVariant1]
+UniqueId=3794c9d1-5c43-48af-9390-b49e06676761
+Description=Main
+AllowFabrication=0
+ParameterCount=0
+VariationCount=2
+Variation1=Designator=P1|UniqueId=\UBVFMXXS|Kind=1|AlternatePart=
+Variation2=Designator=P2|UniqueId=\DKRQTZDT|Kind=1|AlternatePart=
+ParamVariationCount=0
+
 [GeneratedDocument1]
+DocumentPath=Project Outputs for Back_Expansion_Breakout\Design Rule Check - PCB.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
 DocumentPath=Project Outputs for Back_Expansion_Keypad_12\Design Rule Check - PCB.html
 DItemRevisionGUID=
 
