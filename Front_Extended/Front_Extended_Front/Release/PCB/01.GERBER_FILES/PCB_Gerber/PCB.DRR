@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: PCB.PcbDoc   2026-04-28  10:48:00 AM
+NCDrill File Report For: PCB.PcbDoc   2026-04-29  9:59:45 AM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -10,11 +10,11 @@ ASCII RectHoles File : PCB-RectHoles.TXT
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
 T1      12mil (0.3mm)                                             Round             8         PTH        1.10inch (27.84mm)
-T2      30mil (0.749mm)                                           Slot              6         PTH        4.38inch (111.34mm)
-T3      35mil (0.899mm)                                           Round             4         PTH        0.61inch (15.50mm)
-T4      41mil (1.049mm)                                           Round             3         PTH        0.20inch (5.00mm)
+T2      28mil (0.701mm)                                           Slot              3         PTH        0.40inch (10.25mm)
+T3      30mil (0.749mm)                                           Slot              6         PTH        4.38inch (111.34mm)
+T4      35mil (0.899mm)                                           Round             4         PTH        0.61inch (15.50mm)
 T5      43mil (1.1mm)                                             Round             20        PTH        6.69inch (170.02mm)
-T6      67mil (1.699mm)                                           Rectangle         2         PTH        0.79inch (20.01mm)
+T6      67mil (1.699mm)                                           Slot              2         PTH        0.80inch (20.41mm)
 T7      81mil (2.05mm)                                            Round             4         PTH        3.38inch (85.80mm)
 T8      500mil (12.7mm)                                           Rectangle         1         NPTH       0.26inch (6.50mm)
 ----------------------------------------------------------------------------------------------------------------------------------
